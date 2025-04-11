@@ -3,10 +3,10 @@ Site com responsividade para diversas plataformas, visando uma adpatação e o c
 
 
 - **Descrição**
-  Pagina com responsividade para diversos dispositivos, trabalhei nessa pagina utilizando algumas ferramentas das quais tenho dominio, porem com utilização de media Querie para se adequa a diferente tipos de telas.
+- Pagina com responsividade para diversos dispositivos, trabalhei nessa pagina utilizando algumas ferramentas das quais tenho dominio, porem com utilização de media Querie para se adequa a diferente tipos de telas.
 
 
-- **Ferramenta**
+- -**Ferramenta**
 - **HTML**
 - **CSS**
 
